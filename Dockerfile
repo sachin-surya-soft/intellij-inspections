@@ -1,4 +1,4 @@
-FROM gopalkrishnaps/intellij:2021.1.3
+FROM gopalkrishnaps/intellij-android:2020.3.1-30
 
 
 COPY entrypoint.sh /entrypoint.sh
